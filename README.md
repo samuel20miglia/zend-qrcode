@@ -1,0 +1,2 @@
+# zend-qrcode
+Zend\Qrcode
